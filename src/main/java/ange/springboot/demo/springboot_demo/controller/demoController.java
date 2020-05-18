@@ -12,4 +12,10 @@ public class demoController {
 
         return "demo";
     }
+
+    @RequestMapping("/index")
+    public String index(){
+
+        return "demo";
+    }
 }
