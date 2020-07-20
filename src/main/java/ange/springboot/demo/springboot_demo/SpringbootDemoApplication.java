@@ -10,4 +10,8 @@ public class SpringbootDemoApplication {
         SpringApplication.run(SpringbootDemoApplication.class, args);
     }
 
+
+    public void function(){
+        System.out.println("再见");
+    }
 }
